@@ -1,5 +1,6 @@
 
 # Pyrex Cloud (Auth0 Demonstration)
+### Namodh Edirisinghe
 
 ![](https://cdn-icons-png.flaticon.com/128/6964/6964039.png)
 
