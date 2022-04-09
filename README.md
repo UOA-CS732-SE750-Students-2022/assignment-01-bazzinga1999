@@ -43,14 +43,18 @@ Components - Contains the Required modules for the landing page
 Views - Contains the Layout for the Landing and Profile Pages 
 
 **Demo Page Layout**
+
 	-Home Page (Landing Page)
+	
 	-Log In Page (Accessed through Log In Button or 'Register to Show Interest' link)
+	
 	-Profile Page (Accessed through Landing Page Once Logged In)
+	
 	-Any other links, accessible content are directly transferred from the Auth0 React Template provided
 
 
 
-##Demonstration screenshots
+## Demonstration screenshots
 
 **Landing Page:**
 
