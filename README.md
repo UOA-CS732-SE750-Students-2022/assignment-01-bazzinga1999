@@ -36,6 +36,8 @@ The setting up is quite straightforward. Note that this is a a straight-forward 
 
 
 `$ npm i @auth0/auth0-react`
+
+
 #Codebase Layout
 Comments are provided throughout key files in the project for clarification. 
 Components - Contains the Required modules for the landing page
