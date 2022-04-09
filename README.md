@@ -25,12 +25,22 @@ This project focuses on an active deomnstration of the Auth0, an authentication 
 
 # Setting Up
 The setting up is quite straightforward. Note that this is a a straight-forward create-react-app implementation. 
+Use `npm` to install the project dependencies:
+
+```bash
+npm install
+```
 
  Auth0 installation:
 
 
-`$ npm i @auth0/auth0-react`
-
+```bash
+npm i @auth0/auth0-react
+```
+Start the Application:
+```bash
+npm start
+```
 
 # Codebase Layout
 Comments are provided throughout key files in the project for clarification. 
