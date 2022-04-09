@@ -1,5 +1,4 @@
-# assignment-01-bazzinga1999
-assignment-01-bazzinga1999 created by GitHub Classroom
+
 # Pyrex Cloud (Auth0 Demonstration)
 
 ![](https://cdn-icons-png.flaticon.com/128/6964/6964039.png)
@@ -13,7 +12,7 @@ assignment-01-bazzinga1999 created by GitHub Classroom
 
 [TOC]
 
-#Project Introduction
+# Project Introduction
 This project focuses on an active deomnstration of the Auth0, an authentication and authorization platform, making application security easily integratable in various enivronments. This demo is based on the default AUth0 React Template. A ficitonal entity "Pyrex Cloud Solutions" is used to protray this demo.
 #Features
 - Seamless Auth0 Login Integration to Host Site
@@ -29,7 +28,7 @@ This project focuses on an active deomnstration of the Auth0, an authentication 
 	- Password Filtering (Restricts resetting already used passwords, passwords identified in data breaches)
 - User Correspondence with Hospitable Emails (Registration, Welcome, Forgot Password etc.)
 
-#Setting Up
+# Setting Up
 The setting up is quite straightforward. Note that this is a a straight-forward create-react-app implementation. 
 
  Auth0 installation:
@@ -38,7 +37,7 @@ The setting up is quite straightforward. Note that this is a a straight-forward 
 `$ npm i @auth0/auth0-react`
 
 
-#Codebase Layout
+# Codebase Layout
 Comments are provided throughout key files in the project for clarification. 
 Components - Contains the Required modules for the landing page
 Views - Contains the Layout for the Landing and Profile Pages 
