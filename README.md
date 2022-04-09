@@ -70,6 +70,7 @@ Views - Contains the Layout for the Landing and Profile Pages
 
 ![](https://i.ibb.co/Df31S7T/Screen-Shot-2022-04-10-at-12-58-02-AM.png)
 
+
 **User Welcome Email:**
 ![](https://i.ibb.co/m0VM2D7/Screen-Shot-2022-04-10-at-12-59-07-AM.png)
 
