@@ -6,12 +6,6 @@
 
 
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 # Project Introduction
 This project focuses on an active deomnstration of the Auth0, an authentication and authorization platform, making application security easily integratable in various enivronments. This demo is based on the default AUth0 React Template. A ficitonal entity "Pyrex Cloud Solutions" is used to protray this demo.
 #Features
