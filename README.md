@@ -37,6 +37,10 @@ npm install
 ```bash
 npm i @auth0/auth0-react
 ```
+If this gives out an error, using `--force` should work as follows:
+```bash
+npm i @auth0/auth0-react --force
+```
 Start the Application:
 ```bash
 npm start
